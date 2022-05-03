@@ -9,7 +9,7 @@ const empleados = [
     },
     {
         id: 3,
-        nombre: 'Karen'
+        nombre: 'Karen2'
     }
 ];
 
